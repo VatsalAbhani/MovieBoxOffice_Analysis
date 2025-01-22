@@ -9,7 +9,7 @@ This project analyzes key factors contributing to the success of movies at the b
 
 ## Technologies and Tools
 - **Languages**: Python
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Ast
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Software**: Jupyter Notebook
 
 ## Workflow
@@ -41,22 +41,6 @@ This project analyzes key factors contributing to the success of movies at the b
 - Low-budget genres like Horror achieve ROI improvements exceeding 600%.
 - **Top directors and actors** significantly enhance a movie's revenue potential.
 - **Production companies** specializing in specific genres achieve higher success rates.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/box-office-success-analysis.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the Jupyter Notebook to explore the analysis and visualizations.
-
-## Future Work
-- Incorporating machine learning models to predict box office success based on key features.
-- Expanding the dataset to include international box office data.
-- Automating the analysis pipeline for real-time insights.
 
 ## Conclusion
 This project demonstrates the power of data analysis in uncovering actionable insights for strategic decision-making in the movie industry. By leveraging advanced analytics and visualizations, it identifies the key drivers of box office success.
